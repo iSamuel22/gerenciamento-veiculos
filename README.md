@@ -2,7 +2,7 @@
 Este projeto é uma aplicação web para gerenciamento de veículos, utilizando um backend em Node.js com Express, um banco de dados MySQL, e integração com WordPress. A aplicação permite realizar operações CRUD (Create, Read, Update, Delete) nos veículos registrados.
 
 ## 📑 Índice
-1. [Funcionalidades](#)
+1. [Funcionalidades](#%EF%B8%8F-funcionalidades)
 2. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 3. [Pré-requisitos](#-pré-requisitos)
 4. [Estrutura do Projeto](#-estrutura-de-projeto)
